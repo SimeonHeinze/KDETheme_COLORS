@@ -1,3 +1,5 @@
 # KDETheme_COLORS
 
-![COLORS Theme](https://user-images.githubusercontent.com/9989476/199340583-baf36eea-09bf-47a6-a3af-84e37c754576.png)
+![COLORS Theme (1)](https://user-images.githubusercontent.com/9989476/199343739-da27083f-9ac3-444f-a867-9df50dfbaa48.png)
+
+https://coolors.co/292828-117682-60a491-a12b31-faa847-367247
